@@ -1,0 +1,28 @@
+- generic [ref=e2]:
+  - generic:
+    - generic [ref=e7]:
+      - generic [ref=e8]: 11:52:01 AM
+      - generic [ref=e9]: EDT
+    - generic [ref=e10]:
+      - generic [ref=e11]: Hi I am
+      - heading "Marco Parra" [level=2] [ref=e12]:
+        - text: Marco
+        - text: Parra
+      - paragraph [ref=e13]: a software developer
+      - generic [ref=e14]:
+        - link "GitHub" [ref=e15] [cursor=pointer]:
+          - /url: "#"
+          - img [ref=e16]
+          - text: GitHub
+        - link "X" [ref=e18] [cursor=pointer]:
+          - /url: "#"
+          - img [ref=e19]
+          - text: X
+        - link "LinkedIn" [ref=e21] [cursor=pointer]:
+          - /url: "#"
+          - img [ref=e22]
+          - text: LinkedIn
+        - link "Medium" [ref=e24] [cursor=pointer]:
+          - /url: "#"
+          - img [ref=e25]
+          - text: Medium

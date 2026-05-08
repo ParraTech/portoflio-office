@@ -25,11 +25,21 @@ html, body {
   background: url('images/light-mode-office-og.png') center / cover no-repeat;
 }
 
+.bg::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: url('images/portrait_background.png') center / cover no-repeat;
+  opacity: 0;
+  transition: opacity 0.7s ease;
+}
+
 /* Layer 2 — weather, masked to window opening */
 .weather-layer {
   position: absolute;
   inset: 0;
   z-index: 2;
+  transition: opacity 0.7s ease;
   -webkit-mask-image: url('images/window-mask.png');
   -webkit-mask-size: cover;
   -webkit-mask-position: center;
@@ -107,12 +117,14 @@ html, body {
   pointer-events: auto;
   font-family: Georgia, 'Times New Roman', serif;
   color: #1a1a1a;
+  /* single scaling knob: all children use em, so the whole block grows/shrinks together */
+  font-size: clamp(8px, 1.8vw, 26px);
 }
 
 .bio-greeting {
   display: block;
   font-family: 'Courier New', Courier, monospace;
-  font-size: clamp(0.38rem, 0.68vw, 0.68rem);
+  font-size: 0.38em;
   letter-spacing: 0.12em;
   text-transform: uppercase;
   opacity: 0.5;
@@ -121,7 +133,7 @@ html, body {
 
 .bio-name {
   font-family: Georgia, 'Times New Roman', serif;
-  font-size: clamp(1.7rem, 4.2vw, 3.8rem);
+  font-size: 2.3em;
   font-weight: bold;
   line-height: 0.9;
   letter-spacing: -0.02em;
@@ -132,7 +144,7 @@ html, body {
 .bio-tagline {
   font-family: Georgia, 'Times New Roman', serif;
   font-style: italic;
-  font-size: clamp(0.45rem, 0.9vw, 0.9rem);
+  font-size: 0.5em;
   opacity: 0.75;
   margin-bottom: 1.4em;
 }
@@ -150,10 +162,6 @@ html, body {
   flex-direction: column;
   align-items: center;
   gap: 0.35em;
-  font-family: 'Courier New', Courier, monospace;
-  font-size: clamp(0.32rem, 0.5vw, 0.5rem);
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
   color: #1a1a1a;
   text-decoration: none;
   pointer-events: auto;
@@ -161,11 +169,38 @@ html, body {
 }
 
 .social-link svg {
-  width: clamp(1rem, 1.7vw, 1.7rem);
-  height: clamp(1rem, 1.7vw, 1.7rem);
+  /* em here is relative to .bio's font-size — scales with the whole block */
+  width: 0.95em;
+  height: 0.95em;
   display: block;
+}
+
+.social-link span {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 0.28em;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
 }
 
 .social-link:hover {
   opacity: 0.4;
+}
+
+/* ── Mobile / portrait ────────────────────────────────────── */
+@media (max-width: 600px) {
+  .bg::after        { opacity: 1; }
+  .weather-layer    { opacity: 0; pointer-events: none; }
+  .clock            { display: none; }
+
+  .bio {
+    left: 5%;
+    top: auto;
+    bottom: 7%;
+    width: 88%;
+    font-size: clamp(10px, 4.5vw, 22px);
+  }
+
+  .bio-social {
+    gap: 1.8em;
+  }
 }

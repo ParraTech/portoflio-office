@@ -1,0 +1,432 @@
+[   10332ms] [INFO] NikeDotcomNav: Initializing. @ https://www.nike.com/?cp=47307789844_search_-nike-g-23745076281-195047739003-e-c&dplnk=member&gclsrc=aw.ds&gad_source=1&gad_campaignid=23745076281&gbraid=0AAAAADy86kPYHUUsrC0WhUeDRl_faF_SR&gclid=EAIaIQobChMIju_Zj4iqlAMV26laBR1PHSzzEAAYASAAEgKvUfD_BwE:1
+[   10398ms] [WARNING] document.domain mutation is ignored because the surrounding agent cluster is origin-keyed. @ https://www.nike.com/static/uxf/guest-session-html/index.html:13
+[   10428ms] [INFO] NikeDotcomNav: Mounting. @ https://www.nike.com/?cp=47307789844_search_-nike-g-23745076281-195047739003-e-c&dplnk=member&gclsrc=aw.ds&gad_source=1&gad_campaignid=23745076281&gbraid=0AAAAADy86kPYHUUsrC0WhUeDRl_faF_SR&gclid=EAIaIQobChMIju_Zj4iqlAMV26laBR1PHSzzEAAYASAAEgKvUfD_BwE:1
+[   10428ms] [LOG] Mounted global nav @ https://www.nike.com/?cp=47307789844_search_-nike-g-23745076281-195047739003-e-c&dplnk=member&gclsrc=aw.ds&gad_source=1&gad_campaignid=23745076281&gbraid=0AAAAADy86kPYHUUsrC0WhUeDRl_faF_SR&gclid=EAIaIQobChMIju_Zj4iqlAMV26laBR1PHSzzEAAYASAAEgKvUfD_BwE:1
+[   10450ms] [LOG] [Nike AI] Initializing controller... @ https://www.nike.com/?cp=47307789844_search_-nike-g-23745076281-195047739003-e-c&dplnk=member&gclsrc=aw.ds&gad_source=1&gad_campaignid=23745076281&gbraid=0AAAAADy86kPYHUUsrC0WhUeDRl_faF_SR&gclid=EAIaIQobChMIju_Zj4iqlAMV26laBR1PHSzzEAAYASAAEgKvUfD_BwE:1
+[   10450ms] [LOG] [Nike AI] Controller initialized and exposed at window.webShellClient.__WS_INTERNAL__.nikeAI @ https://www.nike.com/?cp=47307789844_search_-nike-g-23745076281-195047739003-e-c&dplnk=member&gclsrc=aw.ds&gad_source=1&gad_campaignid=23745076281&gbraid=0AAAAADy86kPYHUUsrC0WhUeDRl_faF_SR&gclid=EAIaIQobChMIju_Zj4iqlAMV26laBR1PHSzzEAAYASAAEgKvUfD_BwE:1
+[   10509ms] [ERROR] Failed to load resource: the server responded with a status of 429 () @ https://www.nike.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/fp?x-kpsdk-v=j-1.2.405:0
+[   10745ms] [ERROR] [NikeAI] users profile is not detected @ https://www.nike.com/?cp=47307789844_search_-nike-g-23745076281-195047739003-e-c&dplnk=member&gclsrc=aw.ds&gad_source=1&gad_campaignid=23745076281&gbraid=0AAAAADy86kPYHUUsrC0WhUeDRl_faF_SR&gclid=EAIaIQobChMIju_Zj4iqlAMV26laBR1PHSzzEAAYASAAEgKvUfD_BwE:1
+[   10853ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://www.nike.com/?cp=47307789844_search_-nike-g-23745076281-195047739003-e-c&dplnk=member&gclsrc=aw.ds&gad_source=1&gad_campaignid=23745076281&gbraid=0AAAAADy86kPYHUUsrC0WhUeDRl_faF_SR&gclid=EAIaIQobChMIju_Zj4iqlAMV26laBR1PHSzzEAAYASAAEgKvUfD_BwE:1
+[   10858ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://www.nike.com/?cp=47307789844_search_-nike-g-23745076281-195047739003-e-c&dplnk=member&gclsrc=aw.ds&gad_source=1&gad_campaignid=23745076281&gbraid=0AAAAADy86kPYHUUsrC0WhUeDRl_faF_SR&gclid=EAIaIQobChMIju_Zj4iqlAMV26laBR1PHSzzEAAYASAAEgKvUfD_BwE:1
+[   10872ms] [WARNING] [EmbeddedServiceBootstrap] Warning: EmbeddedService Messaging Bootstrap may not function correctly with this native JS function modified: document.addEventListener @ https://www.nike.com/?cp=47307789844_search_-nike-g-23745076281-195047739003-e-c&dplnk=member&gclsrc=aw.ds&gad_source=1&gad_campaignid=23745076281&gbraid=0AAAAADy86kPYHUUsrC0WhUeDRl_faF_SR&gclid=EAIaIQobChMIju_Zj4iqlAMV26laBR1PHSzzEAAYASAAEgKvUfD_BwE:1
+[   10873ms] [WARNING] [EmbeddedServiceBootstrap] Warning: EmbeddedService Messaging Bootstrap may not function correctly with this native JS function modified: document.removeEventListener @ https://www.nike.com/?cp=47307789844_search_-nike-g-23745076281-195047739003-e-c&dplnk=member&gclsrc=aw.ds&gad_source=1&gad_campaignid=23745076281&gbraid=0AAAAADy86kPYHUUsrC0WhUeDRl_faF_SR&gclid=EAIaIQobChMIju_Zj4iqlAMV26laBR1PHSzzEAAYASAAEgKvUfD_BwE:1
+[   10873ms] [WARNING] [EmbeddedServiceBootstrap] Warning: EmbeddedService Messaging Bootstrap may not function correctly with this native JS function modified: window.addEventListener @ https://www.nike.com/?cp=47307789844_search_-nike-g-23745076281-195047739003-e-c&dplnk=member&gclsrc=aw.ds&gad_source=1&gad_campaignid=23745076281&gbraid=0AAAAADy86kPYHUUsrC0WhUeDRl_faF_SR&gclid=EAIaIQobChMIju_Zj4iqlAMV26laBR1PHSzzEAAYASAAEgKvUfD_BwE:1
+[   10873ms] [WARNING] [EmbeddedServiceBootstrap] Warning: EmbeddedService Messaging Bootstrap may not function correctly with this native JS function modified: window.removeEventListener @ https://www.nike.com/?cp=47307789844_search_-nike-g-23745076281-195047739003-e-c&dplnk=member&gclsrc=aw.ds&gad_source=1&gad_campaignid=23745076281&gbraid=0AAAAADy86kPYHUUsrC0WhUeDRl_faF_SR&gclid=EAIaIQobChMIju_Zj4iqlAMV26laBR1PHSzzEAAYASAAEgKvUfD_BwE:1
+[   10873ms] [WARNING] [EmbeddedServiceBootstrap] Warning: EmbeddedService Messaging Bootstrap may not function correctly with this native JS function modified: window.fetch @ https://www.nike.com/?cp=47307789844_search_-nike-g-23745076281-195047739003-e-c&dplnk=member&gclsrc=aw.ds&gad_source=1&gad_campaignid=23745076281&gbraid=0AAAAADy86kPYHUUsrC0WhUeDRl_faF_SR&gclid=EAIaIQobChMIju_Zj4iqlAMV26laBR1PHSzzEAAYASAAEgKvUfD_BwE:1
+[   11022ms] [LOG] Error @ :2
+[   11033ms] [LOG] Error @ :2
+[   11034ms] [LOG] Error @ :2
+[   11641ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://www.nike.com/?cp=47307789844_search_-nike-g-23745076281-195047739003-e-c&dplnk=member&gclsrc=aw.ds&gad_source=1&gad_campaignid=23745076281&gbraid=0AAAAADy86kPYHUUsrC0WhUeDRl_faF_SR&gclid=EAIaIQobChMIju_Zj4iqlAMV26laBR1PHSzzEAAYASAAEgKvUfD_BwE:1
+[   11643ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://www.nike.com/?cp=47307789844_search_-nike-g-23745076281-195047739003-e-c&dplnk=member&gclsrc=aw.ds&gad_source=1&gad_campaignid=23745076281&gbraid=0AAAAADy86kPYHUUsrC0WhUeDRl_faF_SR&gclid=EAIaIQobChMIju_Zj4iqlAMV26laBR1PHSzzEAAYASAAEgKvUfD_BwE:1
+[   11669ms] [LOG] Error @ :2
+[   11721ms] [LOG] Received the onEmbeddedMessagingReady event… @ https://www.nike.com/?cp=47307789844_search_-nike-g-23745076281-195047739003-e-c&dplnk=member&gclsrc=aw.ds&gad_source=1&gad_campaignid=23745076281&gbraid=0AAAAADy86kPYHUUsrC0WhUeDRl_faF_SR&gclid=EAIaIQobChMIju_Zj4iqlAMV26laBR1PHSzzEAAYASAAEgKvUfD_BwE:1
+[   12616ms] [ERROR] Attestation check for Attribution Reporting on https://ara.paa-reporting-advertising.amazon failed. @ https://www.nike.com/?cp=47307789844_search_-nike-g-23745076281-195047739003-e-c&dplnk=member&gclsrc=aw.ds&gad_source=1&gad_campaignid=23745076281&gbraid=0AAAAADy86kPYHUUsrC0WhUeDRl_faF_SR&gclid=EAIaIQobChMIju_Zj4iqlAMV26laBR1PHSzzEAAYASAAEgKvUfD_BwE:0
+[   12617ms] [ERROR] Attestation check for Shared Storage on https://ara.paa-reporting-advertising.amazon failed. @ https://www.nike.com/?cp=47307789844_search_-nike-g-23745076281-195047739003-e-c&dplnk=member&gclsrc=aw.ds&gad_source=1&gad_campaignid=23745076281&gbraid=0AAAAADy86kPYHUUsrC0WhUeDRl_faF_SR&gclid=EAIaIQobChMIju_Zj4iqlAMV26laBR1PHSzzEAAYASAAEgKvUfD_BwE:0
+[   12931ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://www.nike.com/?cp=47307789844_search_-nike-g-23745076281-195047739003-e-c&dplnk=member&gclsrc=aw.ds&gad_source=1&gad_campaignid=23745076281&gbraid=0AAAAADy86kPYHUUsrC0WhUeDRl_faF_SR&gclid=EAIaIQobChMIju_Zj4iqlAMV26laBR1PHSzzEAAYASAAEgKvUfD_BwE:1
+[   12941ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://www.nike.com/?cp=47307789844_search_-nike-g-23745076281-195047739003-e-c&dplnk=member&gclsrc=aw.ds&gad_source=1&gad_campaignid=23745076281&gbraid=0AAAAADy86kPYHUUsrC0WhUeDRl_faF_SR&gclid=EAIaIQobChMIju_Zj4iqlAMV26laBR1PHSzzEAAYASAAEgKvUfD_BwE:1
+[   12944ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://www.nike.com/?cp=47307789844_search_-nike-g-23745076281-195047739003-e-c&dplnk=member&gclsrc=aw.ds&gad_source=1&gad_campaignid=23745076281&gbraid=0AAAAADy86kPYHUUsrC0WhUeDRl_faF_SR&gclid=EAIaIQobChMIju_Zj4iqlAMV26laBR1PHSzzEAAYASAAEgKvUfD_BwE:1
+[   12953ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://www.nike.com/?cp=47307789844_search_-nike-g-23745076281-195047739003-e-c&dplnk=member&gclsrc=aw.ds&gad_source=1&gad_campaignid=23745076281&gbraid=0AAAAADy86kPYHUUsrC0WhUeDRl_faF_SR&gclid=EAIaIQobChMIju_Zj4iqlAMV26laBR1PHSzzEAAYASAAEgKvUfD_BwE:1
+[   13225ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://api.nike.com/buy/carts/v2/US/NIKE/NIKECOM:0
+[   14989ms] [WARNING] The resource https://nikeconsumerservices.my.site.com/ESWWebEnglishUSGuest1712823616920/webruntime/framework/eac802e7d8/prod/lwr_bootstrap was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://nikeconsumerservices.my.site.com/ESWWebEnglishUSGuest1712823616920/assets/htdocs/sitecontext.min.html?parent_domain=https%3A%2F%2Fwww.nike.com:0
+[   14989ms] [WARNING] The resource https://nikeconsumerservices.my.site.com/ESWWebEnglishUSGuest1712823616920/webruntime/framework/6bba9463ca/prod/lwr_app_bootstrap_hook was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://nikeconsumerservices.my.site.com/ESWWebEnglishUSGuest1712823616920/assets/htdocs/sitecontext.min.html?parent_domain=https%3A%2F%2Fwww.nike.com:0
+[   14989ms] [WARNING] The resource https://nikeconsumerservices.my.site.com/ESWWebEnglishUSGuest1712823616920/webruntime/framework/1e7fb74fd8/prod/lwr_loader was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://nikeconsumerservices.my.site.com/ESWWebEnglishUSGuest1712823616920/assets/htdocs/sitecontext.min.html?parent_domain=https%3A%2F%2Fwww.nike.com:0
+[   14989ms] [WARNING] The resource https://nikeconsumerservices.my.site.com/ESWWebEnglishUSGuest1712823616920/webruntime/framework/9faac7844c/prod/lwr_lwc was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://nikeconsumerservices.my.site.com/ESWWebEnglishUSGuest1712823616920/assets/htdocs/sitecontext.min.html?parent_domain=https%3A%2F%2Fwww.nike.com:0
+[   14989ms] [WARNING] The resource https://nikeconsumerservices.my.site.com/ESWWebEnglishUSGuest1712823616920/webruntime/view/49c4a2b1484a4017631afd717149b162/prod/en-US/home_view was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://nikeconsumerservices.my.site.com/ESWWebEnglishUSGuest1712823616920/assets/htdocs/sitecontext.min.html?parent_domain=https%3A%2F%2Fwww.nike.com:0
+[   14989ms] [WARNING] The resource https://nikeconsumerservices.my.site.com/ESWWebEnglishUSGuest1712823616920/webruntime/component/5b8557d8725fba2dbf2e6a4968ec430c/prod/en-US/force/luvioRuntimeWebruntime_cmp was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://nikeconsumerservices.my.site.com/ESWWebEnglishUSGuest1712823616920/assets/htdocs/sitecontext.min.html?parent_domain=https%3A%2F%2Fwww.nike.com:0
+[   14989ms] [WARNING] The resource https://nikeconsumerservices.my.site.com/ESWWebEnglishUSGuest1712823616920/assets/styles/embedded-messaging-styling.min.css?372e9583cb was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://nikeconsumerservices.my.site.com/ESWWebEnglishUSGuest1712823616920/assets/htdocs/sitecontext.min.html?parent_domain=https%3A%2F%2Fwww.nike.com:0
+[   14989ms] [WARNING] The resource https://nikeconsumerservices.my.site.com/ESWWebEnglishUSGuest1712823616920/webruntime/view/95694c0f0daf27243673d89b98309520/prod/en-US/frame_view was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://nikeconsumerservices.my.site.com/ESWWebEnglishUSGuest1712823616920/assets/htdocs/sitecontext.min.html?parent_domain=https%3A%2F%2Fwww.nike.com:0
+[   14989ms] [WARNING] The resource https://nikeconsumerservices.my.site.com/ESWWebEnglishUSGuest1712823616920/assets/styles/salesforce-lightning-design-system.min.css?372e9583cb was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://nikeconsumerservices.my.site.com/ESWWebEnglishUSGuest1712823616920/assets/htdocs/sitecontext.min.html?parent_domain=https%3A%2F%2Fwww.nike.com:0
+[   14989ms] [WARNING] The resource https://nikeconsumerservices.my.site.com/ESWWebEnglishUSGuest1712823616920/webruntime/framework/e3a62caf58/prod/lwr_app was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://nikeconsumerservices.my.site.com/ESWWebEnglishUSGuest1712823616920/assets/htdocs/sitecontext.min.html?parent_domain=https%3A%2F%2Fwww.nike.com:0
+[   14989ms] [WARNING] The resource https://nikeconsumerservices.my.site.com/ESWWebEnglishUSGuest1712823616920/webruntime/component/259a789b5905e4a3e65c0942cc97421d/prod/en-US/force/luvioLwcBindings_cmp was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://nikeconsumerservices.my.site.com/ESWWebEnglishUSGuest1712823616920/assets/htdocs/sitecontext.min.html?parent_domain=https%3A%2F%2Fwww.nike.com:0
+[   19942ms] [ERROR] VIDEOJS: ERROR: Error: Invalid target for null#on; must be a DOM node or evented object.
+    at Vn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64004)
+    at qn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64500)
+    at t.on (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64755)
+    at t.e (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:68810)
+    at new t (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:155570)
+    at i.createMenu (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:159388)
+    at i.update (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:158999)
+    at Pn.n.dispatcher.n.dispatcher (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:60587)
+    at xn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:61585)
+    at Un.trigger (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:63228) @ https://www.nike.com/?cp=47307789844_search_-nike-g-23745076281-195047739003-e-c&dplnk=member&gclsrc=aw.ds&gad_source=1&gad_campaignid=23745076281&gbraid=0AAAAADy86kPYHUUsrC0WhUeDRl_faF_SR&gclid=EAIaIQobChMIju_Zj4iqlAMV26laBR1PHSzzEAAYASAAEgKvUfD_BwE:1
+[   19942ms] [ERROR] VIDEOJS: ERROR: Error: Invalid target for null#on; must be a DOM node or evented object.
+    at Vn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64004)
+    at qn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64500)
+    at t.on (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64755)
+    at t.e (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:68810)
+    at new t (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:155570)
+    at i.createMenu (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:159388)
+    at i.update (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:158999)
+    at Pn.n.dispatcher.n.dispatcher (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:60587)
+    at xn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:61585)
+    at Un.trigger (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:63228) @ https://www.nike.com/?cp=47307789844_search_-nike-g-23745076281-195047739003-e-c&dplnk=member&gclsrc=aw.ds&gad_source=1&gad_campaignid=23745076281&gbraid=0AAAAADy86kPYHUUsrC0WhUeDRl_faF_SR&gclid=EAIaIQobChMIju_Zj4iqlAMV26laBR1PHSzzEAAYASAAEgKvUfD_BwE:1
+[   19942ms] [ERROR] VIDEOJS: ERROR: Error: Invalid target for null#on; must be a DOM node or evented object.
+    at Vn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64004)
+    at qn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64500)
+    at t.on (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64755)
+    at t.e (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:68810)
+    at new t (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:155570)
+    at i.createMenu (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:159388)
+    at i.update (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:158999)
+    at Pn.n.dispatcher.n.dispatcher (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:60587)
+    at xn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:61585)
+    at Un.trigger (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:63228) @ https://www.nike.com/?cp=47307789844_search_-nike-g-23745076281-195047739003-e-c&dplnk=member&gclsrc=aw.ds&gad_source=1&gad_campaignid=23745076281&gbraid=0AAAAADy86kPYHUUsrC0WhUeDRl_faF_SR&gclid=EAIaIQobChMIju_Zj4iqlAMV26laBR1PHSzzEAAYASAAEgKvUfD_BwE:1
+[   19942ms] [ERROR] VIDEOJS: ERROR: Error: Invalid target for null#on; must be a DOM node or evented object.
+    at Vn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64004)
+    at qn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64500)
+    at t.on (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64755)
+    at t.e (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:68810)
+    at new t (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:155570)
+    at i.createMenu (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:159388)
+    at i.update (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:158999)
+    at Pn.n.dispatcher.n.dispatcher (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:60587)
+    at xn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:61585)
+    at Un.trigger (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:63228) @ https://www.nike.com/?cp=47307789844_search_-nike-g-23745076281-195047739003-e-c&dplnk=member&gclsrc=aw.ds&gad_source=1&gad_campaignid=23745076281&gbraid=0AAAAADy86kPYHUUsrC0WhUeDRl_faF_SR&gclid=EAIaIQobChMIju_Zj4iqlAMV26laBR1PHSzzEAAYASAAEgKvUfD_BwE:1
+[   19943ms] [ERROR] VIDEOJS: ERROR: Error: Invalid target for null#on; must be a DOM node or evented object.
+    at Vn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64004)
+    at qn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64500)
+    at t.on (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64755)
+    at t.e (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:68810)
+    at new t (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:155570)
+    at i.createMenu (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:159388)
+    at i.update (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:158999)
+    at Pn.n.dispatcher.n.dispatcher (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:60587)
+    at xn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:61585)
+    at Un.trigger (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:63228) @ https://www.nike.com/?cp=47307789844_search_-nike-g-23745076281-195047739003-e-c&dplnk=member&gclsrc=aw.ds&gad_source=1&gad_campaignid=23745076281&gbraid=0AAAAADy86kPYHUUsrC0WhUeDRl_faF_SR&gclid=EAIaIQobChMIju_Zj4iqlAMV26laBR1PHSzzEAAYASAAEgKvUfD_BwE:1
+[   19943ms] [ERROR] VIDEOJS: ERROR: Error: Invalid target for null#on; must be a DOM node or evented object.
+    at Vn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64004)
+    at qn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64500)
+    at t.on (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64755)
+    at t.e (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:68810)
+    at new t (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:155570)
+    at i.createMenu (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:159388)
+    at i.update (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:158999)
+    at Pn.n.dispatcher.n.dispatcher (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:60587)
+    at xn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:61585)
+    at Un.trigger (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:63228) @ https://www.nike.com/?cp=47307789844_search_-nike-g-23745076281-195047739003-e-c&dplnk=member&gclsrc=aw.ds&gad_source=1&gad_campaignid=23745076281&gbraid=0AAAAADy86kPYHUUsrC0WhUeDRl_faF_SR&gclid=EAIaIQobChMIju_Zj4iqlAMV26laBR1PHSzzEAAYASAAEgKvUfD_BwE:1
+[   19943ms] [ERROR] VIDEOJS: ERROR: Error: Invalid target for null#on; must be a DOM node or evented object.
+    at Vn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64004)
+    at qn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64500)
+    at t.on (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64755)
+    at t.e (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:68810)
+    at new t (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:155570)
+    at i.createMenu (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:159388)
+    at i.update (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:158999)
+    at Pn.n.dispatcher.n.dispatcher (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:60587)
+    at xn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:61585)
+    at Un.trigger (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:63228) @ https://www.nike.com/?cp=47307789844_search_-nike-g-23745076281-195047739003-e-c&dplnk=member&gclsrc=aw.ds&gad_source=1&gad_campaignid=23745076281&gbraid=0AAAAADy86kPYHUUsrC0WhUeDRl_faF_SR&gclid=EAIaIQobChMIju_Zj4iqlAMV26laBR1PHSzzEAAYASAAEgKvUfD_BwE:1
+[   19946ms] [ERROR] VIDEOJS: ERROR: Error: Invalid target for null#on; must be a DOM node or evented object.
+    at Vn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64004)
+    at qn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64500)
+    at t.on (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64755)
+    at t.e (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:68810)
+    at new t (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:155570)
+    at i.createMenu (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:159388)
+    at i.update (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:158999)
+    at Pn.n.dispatcher.n.dispatcher (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:60587)
+    at xn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:61585)
+    at Un.trigger (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:63228) @ https://www.nike.com/?cp=47307789844_search_-nike-g-23745076281-195047739003-e-c&dplnk=member&gclsrc=aw.ds&gad_source=1&gad_campaignid=23745076281&gbraid=0AAAAADy86kPYHUUsrC0WhUeDRl_faF_SR&gclid=EAIaIQobChMIju_Zj4iqlAMV26laBR1PHSzzEAAYASAAEgKvUfD_BwE:1
+[   19946ms] [ERROR] VIDEOJS: ERROR: Error: Invalid target for null#on; must be a DOM node or evented object.
+    at Vn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64004)
+    at qn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64500)
+    at t.on (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64755)
+    at t.e (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:68810)
+    at new t (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:155570)
+    at i.createMenu (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:159388)
+    at i.update (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:158999)
+    at Pn.n.dispatcher.n.dispatcher (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:60587)
+    at xn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:61585)
+    at Un.trigger (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:63228) @ https://www.nike.com/?cp=47307789844_search_-nike-g-23745076281-195047739003-e-c&dplnk=member&gclsrc=aw.ds&gad_source=1&gad_campaignid=23745076281&gbraid=0AAAAADy86kPYHUUsrC0WhUeDRl_faF_SR&gclid=EAIaIQobChMIju_Zj4iqlAMV26laBR1PHSzzEAAYASAAEgKvUfD_BwE:1
+[   19946ms] [ERROR] VIDEOJS: ERROR: Error: Invalid target for null#on; must be a DOM node or evented object.
+    at Vn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64004)
+    at qn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64500)
+    at t.on (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64755)
+    at t.e (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:68810)
+    at new t (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:155570)
+    at i.createMenu (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:159388)
+    at i.update (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:158999)
+    at Pn.n.dispatcher.n.dispatcher (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:60587)
+    at xn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:61585)
+    at Un.trigger (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:63228) @ https://www.nike.com/?cp=47307789844_search_-nike-g-23745076281-195047739003-e-c&dplnk=member&gclsrc=aw.ds&gad_source=1&gad_campaignid=23745076281&gbraid=0AAAAADy86kPYHUUsrC0WhUeDRl_faF_SR&gclid=EAIaIQobChMIju_Zj4iqlAMV26laBR1PHSzzEAAYASAAEgKvUfD_BwE:1
+[   19947ms] [ERROR] VIDEOJS: ERROR: Error: Invalid target for null#on; must be a DOM node or evented object.
+    at Vn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64004)
+    at qn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64500)
+    at t.on (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64755)
+    at t.e (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:68810)
+    at new t (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:155570)
+    at i.createMenu (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:159388)
+    at i.update (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:158999)
+    at Pn.n.dispatcher.n.dispatcher (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:60587)
+    at xn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:61585)
+    at Un.trigger (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:63228) @ https://www.nike.com/?cp=47307789844_search_-nike-g-23745076281-195047739003-e-c&dplnk=member&gclsrc=aw.ds&gad_source=1&gad_campaignid=23745076281&gbraid=0AAAAADy86kPYHUUsrC0WhUeDRl_faF_SR&gclid=EAIaIQobChMIju_Zj4iqlAMV26laBR1PHSzzEAAYASAAEgKvUfD_BwE:1
+[   19947ms] [ERROR] VIDEOJS: ERROR: Error: Invalid target for null#on; must be a DOM node or evented object.
+    at Vn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64004)
+    at qn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64500)
+    at t.on (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64755)
+    at t.e (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:68810)
+    at new t (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:155570)
+    at i.createMenu (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:159388)
+    at i.update (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:158999)
+    at Pn.n.dispatcher.n.dispatcher (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:60587)
+    at xn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:61585)
+    at Un.trigger (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:63228) @ https://www.nike.com/?cp=47307789844_search_-nike-g-23745076281-195047739003-e-c&dplnk=member&gclsrc=aw.ds&gad_source=1&gad_campaignid=23745076281&gbraid=0AAAAADy86kPYHUUsrC0WhUeDRl_faF_SR&gclid=EAIaIQobChMIju_Zj4iqlAMV26laBR1PHSzzEAAYASAAEgKvUfD_BwE:1
+[   19947ms] [ERROR] VIDEOJS: ERROR: Error: Invalid target for null#on; must be a DOM node or evented object.
+    at Vn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64004)
+    at qn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64500)
+    at t.on (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64755)
+    at t.e (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:68810)
+    at new t (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:155570)
+    at i.createMenu (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:159388)
+    at i.update (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:158999)
+    at Pn.n.dispatcher.n.dispatcher (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:60587)
+    at xn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:61585)
+    at Un.trigger (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:63228) @ https://www.nike.com/?cp=47307789844_search_-nike-g-23745076281-195047739003-e-c&dplnk=member&gclsrc=aw.ds&gad_source=1&gad_campaignid=23745076281&gbraid=0AAAAADy86kPYHUUsrC0WhUeDRl_faF_SR&gclid=EAIaIQobChMIju_Zj4iqlAMV26laBR1PHSzzEAAYASAAEgKvUfD_BwE:1
+[   19947ms] [ERROR] VIDEOJS: ERROR: Error: Invalid target for null#on; must be a DOM node or evented object.
+    at Vn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64004)
+    at qn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64500)
+    at t.on (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64755)
+    at t.e (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:68810)
+    at new t (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:155570)
+    at i.createMenu (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:159388)
+    at i.update (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:158999)
+    at Pn.n.dispatcher.n.dispatcher (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:60587)
+    at xn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:61585)
+    at Un.trigger (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:63228) @ https://www.nike.com/?cp=47307789844_search_-nike-g-23745076281-195047739003-e-c&dplnk=member&gclsrc=aw.ds&gad_source=1&gad_campaignid=23745076281&gbraid=0AAAAADy86kPYHUUsrC0WhUeDRl_faF_SR&gclid=EAIaIQobChMIju_Zj4iqlAMV26laBR1PHSzzEAAYASAAEgKvUfD_BwE:1
+[   19966ms] [ERROR] VIDEOJS: ERROR: Error: Invalid target for null#on; must be a DOM node or evented object.
+    at Vn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64004)
+    at qn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64500)
+    at t.on (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64755)
+    at t.e (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:68810)
+    at new t (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:155570)
+    at i.createMenu (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:159388)
+    at i.update (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:158999)
+    at Pn.n.dispatcher.n.dispatcher (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:60587)
+    at xn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:61585)
+    at Un.trigger (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:63228) @ https://www.nike.com/?cp=47307789844_search_-nike-g-23745076281-195047739003-e-c&dplnk=member&gclsrc=aw.ds&gad_source=1&gad_campaignid=23745076281&gbraid=0AAAAADy86kPYHUUsrC0WhUeDRl_faF_SR&gclid=EAIaIQobChMIju_Zj4iqlAMV26laBR1PHSzzEAAYASAAEgKvUfD_BwE:1
+[   19977ms] [ERROR] VIDEOJS: ERROR: Error: Invalid target for null#on; must be a DOM node or evented object.
+    at Vn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64004)
+    at qn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64500)
+    at t.on (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64755)
+    at t.e (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:68810)
+    at new t (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:155570)
+    at i.createMenu (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:159388)
+    at i.update (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:158999)
+    at Pn.n.dispatcher.n.dispatcher (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:60587)
+    at xn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:61585)
+    at Un.trigger (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:63228) @ https://www.nike.com/?cp=47307789844_search_-nike-g-23745076281-195047739003-e-c&dplnk=member&gclsrc=aw.ds&gad_source=1&gad_campaignid=23745076281&gbraid=0AAAAADy86kPYHUUsrC0WhUeDRl_faF_SR&gclid=EAIaIQobChMIju_Zj4iqlAMV26laBR1PHSzzEAAYASAAEgKvUfD_BwE:1
+[   20024ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://www.nike.com/?cp=47307789844_search_-nike-g-23745076281-195047739003-e-c&dplnk=member&gclsrc=aw.ds&gad_source=1&gad_campaignid=23745076281&gbraid=0AAAAADy86kPYHUUsrC0WhUeDRl_faF_SR&gclid=EAIaIQobChMIju_Zj4iqlAMV26laBR1PHSzzEAAYASAAEgKvUfD_BwE:1
+[   20030ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://www.nike.com/?cp=47307789844_search_-nike-g-23745076281-195047739003-e-c&dplnk=member&gclsrc=aw.ds&gad_source=1&gad_campaignid=23745076281&gbraid=0AAAAADy86kPYHUUsrC0WhUeDRl_faF_SR&gclid=EAIaIQobChMIju_Zj4iqlAMV26laBR1PHSzzEAAYASAAEgKvUfD_BwE:1
+[   20033ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://www.nike.com/?cp=47307789844_search_-nike-g-23745076281-195047739003-e-c&dplnk=member&gclsrc=aw.ds&gad_source=1&gad_campaignid=23745076281&gbraid=0AAAAADy86kPYHUUsrC0WhUeDRl_faF_SR&gclid=EAIaIQobChMIju_Zj4iqlAMV26laBR1PHSzzEAAYASAAEgKvUfD_BwE:1
+[   20037ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://www.nike.com/?cp=47307789844_search_-nike-g-23745076281-195047739003-e-c&dplnk=member&gclsrc=aw.ds&gad_source=1&gad_campaignid=23745076281&gbraid=0AAAAADy86kPYHUUsrC0WhUeDRl_faF_SR&gclid=EAIaIQobChMIju_Zj4iqlAMV26laBR1PHSzzEAAYASAAEgKvUfD_BwE:1
+[   20621ms] [ERROR] VIDEOJS: ERROR: Error: Invalid target for null#on; must be a DOM node or evented object.
+    at Vn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64004)
+    at qn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64500)
+    at t.on (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64755)
+    at t.e (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:68810)
+    at new t (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:155570)
+    at i.createMenu (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:159388)
+    at i.update (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:158999)
+    at Pn.n.dispatcher.n.dispatcher (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:60587)
+    at xn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:61585)
+    at Un.trigger (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:63228) @ https://www.nike.com/?cp=47307789844_search_-nike-g-23745076281-195047739003-e-c&dplnk=member&gclsrc=aw.ds&gad_source=1&gad_campaignid=23745076281&gbraid=0AAAAADy86kPYHUUsrC0WhUeDRl_faF_SR&gclid=EAIaIQobChMIju_Zj4iqlAMV26laBR1PHSzzEAAYASAAEgKvUfD_BwE:1
+[   20621ms] [ERROR] VIDEOJS: ERROR: Error: Invalid target for null#on; must be a DOM node or evented object.
+    at Vn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64004)
+    at qn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64500)
+    at t.on (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64755)
+    at t.e (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:68810)
+    at new t (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:155570)
+    at i.createMenu (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:159388)
+    at i.update (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:158999)
+    at Pn.n.dispatcher.n.dispatcher (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:60587)
+    at xn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:61585)
+    at Un.trigger (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:63228) @ https://www.nike.com/?cp=47307789844_search_-nike-g-23745076281-195047739003-e-c&dplnk=member&gclsrc=aw.ds&gad_source=1&gad_campaignid=23745076281&gbraid=0AAAAADy86kPYHUUsrC0WhUeDRl_faF_SR&gclid=EAIaIQobChMIju_Zj4iqlAMV26laBR1PHSzzEAAYASAAEgKvUfD_BwE:1
+[   20621ms] [ERROR] VIDEOJS: ERROR: Error: Invalid target for null#on; must be a DOM node or evented object.
+    at Vn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64004)
+    at qn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64500)
+    at t.on (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64755)
+    at t.e (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:68810)
+    at new t (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:155570)
+    at i.createMenu (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:159388)
+    at i.update (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:158999)
+    at Pn.n.dispatcher.n.dispatcher (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:60587)
+    at xn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:61585)
+    at Un.trigger (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:63228) @ https://www.nike.com/?cp=47307789844_search_-nike-g-23745076281-195047739003-e-c&dplnk=member&gclsrc=aw.ds&gad_source=1&gad_campaignid=23745076281&gbraid=0AAAAADy86kPYHUUsrC0WhUeDRl_faF_SR&gclid=EAIaIQobChMIju_Zj4iqlAMV26laBR1PHSzzEAAYASAAEgKvUfD_BwE:1
+[   20621ms] [ERROR] VIDEOJS: ERROR: Error: Invalid target for null#on; must be a DOM node or evented object.
+    at Vn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64004)
+    at qn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64500)
+    at t.on (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64755)
+    at t.e (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:68810)
+    at new t (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:155570)
+    at i.createMenu (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:159388)
+    at i.update (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:158999)
+    at Pn.n.dispatcher.n.dispatcher (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:60587)
+    at xn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:61585)
+    at Un.trigger (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:63228) @ https://www.nike.com/?cp=47307789844_search_-nike-g-23745076281-195047739003-e-c&dplnk=member&gclsrc=aw.ds&gad_source=1&gad_campaignid=23745076281&gbraid=0AAAAADy86kPYHUUsrC0WhUeDRl_faF_SR&gclid=EAIaIQobChMIju_Zj4iqlAMV26laBR1PHSzzEAAYASAAEgKvUfD_BwE:1
+[   20622ms] [ERROR] VIDEOJS: ERROR: Error: Invalid target for null#on; must be a DOM node or evented object.
+    at Vn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64004)
+    at qn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64500)
+    at t.on (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64755)
+    at t.e (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:68810)
+    at new t (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:155570)
+    at i.createMenu (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:159388)
+    at i.update (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:158999)
+    at Pn.n.dispatcher.n.dispatcher (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:60587)
+    at xn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:61585)
+    at Un.trigger (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:63228) @ https://www.nike.com/?cp=47307789844_search_-nike-g-23745076281-195047739003-e-c&dplnk=member&gclsrc=aw.ds&gad_source=1&gad_campaignid=23745076281&gbraid=0AAAAADy86kPYHUUsrC0WhUeDRl_faF_SR&gclid=EAIaIQobChMIju_Zj4iqlAMV26laBR1PHSzzEAAYASAAEgKvUfD_BwE:1
+[   20622ms] [ERROR] VIDEOJS: ERROR: Error: Invalid target for null#on; must be a DOM node or evented object.
+    at Vn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64004)
+    at qn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64500)
+    at t.on (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64755)
+    at t.e (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:68810)
+    at new t (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:155570)
+    at i.createMenu (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:159388)
+    at i.update (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:158999)
+    at Pn.n.dispatcher.n.dispatcher (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:60587)
+    at xn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:61585)
+    at Un.trigger (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:63228) @ https://www.nike.com/?cp=47307789844_search_-nike-g-23745076281-195047739003-e-c&dplnk=member&gclsrc=aw.ds&gad_source=1&gad_campaignid=23745076281&gbraid=0AAAAADy86kPYHUUsrC0WhUeDRl_faF_SR&gclid=EAIaIQobChMIju_Zj4iqlAMV26laBR1PHSzzEAAYASAAEgKvUfD_BwE:1
+[   20622ms] [ERROR] VIDEOJS: ERROR: Error: Invalid target for null#on; must be a DOM node or evented object.
+    at Vn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64004)
+    at qn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64500)
+    at t.on (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64755)
+    at t.e (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:68810)
+    at new t (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:155570)
+    at i.createMenu (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:159388)
+    at i.update (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:158999)
+    at Pn.n.dispatcher.n.dispatcher (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:60587)
+    at xn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:61585)
+    at Un.trigger (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:63228) @ https://www.nike.com/?cp=47307789844_search_-nike-g-23745076281-195047739003-e-c&dplnk=member&gclsrc=aw.ds&gad_source=1&gad_campaignid=23745076281&gbraid=0AAAAADy86kPYHUUsrC0WhUeDRl_faF_SR&gclid=EAIaIQobChMIju_Zj4iqlAMV26laBR1PHSzzEAAYASAAEgKvUfD_BwE:1
+[   20625ms] [ERROR] VIDEOJS: ERROR: Error: Invalid target for null#on; must be a DOM node or evented object.
+    at Vn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64004)
+    at qn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64500)
+    at t.on (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64755)
+    at t.e (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:68810)
+    at new t (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:155570)
+    at i.createMenu (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:159388)
+    at i.update (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:158999)
+    at Pn.n.dispatcher.n.dispatcher (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:60587)
+    at xn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:61585)
+    at Un.trigger (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:63228) @ https://www.nike.com/?cp=47307789844_search_-nike-g-23745076281-195047739003-e-c&dplnk=member&gclsrc=aw.ds&gad_source=1&gad_campaignid=23745076281&gbraid=0AAAAADy86kPYHUUsrC0WhUeDRl_faF_SR&gclid=EAIaIQobChMIju_Zj4iqlAMV26laBR1PHSzzEAAYASAAEgKvUfD_BwE:1
+[   20626ms] [ERROR] VIDEOJS: ERROR: Error: Invalid target for null#on; must be a DOM node or evented object.
+    at Vn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64004)
+    at qn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64500)
+    at t.on (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64755)
+    at t.e (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:68810)
+    at new t (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:155570)
+    at i.createMenu (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:159388)
+    at i.update (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:158999)
+    at Pn.n.dispatcher.n.dispatcher (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:60587)
+    at xn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:61585)
+    at Un.trigger (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:63228) @ https://www.nike.com/?cp=47307789844_search_-nike-g-23745076281-195047739003-e-c&dplnk=member&gclsrc=aw.ds&gad_source=1&gad_campaignid=23745076281&gbraid=0AAAAADy86kPYHUUsrC0WhUeDRl_faF_SR&gclid=EAIaIQobChMIju_Zj4iqlAMV26laBR1PHSzzEAAYASAAEgKvUfD_BwE:1
+[   20626ms] [ERROR] VIDEOJS: ERROR: Error: Invalid target for null#on; must be a DOM node or evented object.
+    at Vn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64004)
+    at qn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64500)
+    at t.on (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64755)
+    at t.e (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:68810)
+    at new t (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:155570)
+    at i.createMenu (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:159388)
+    at i.update (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:158999)
+    at Pn.n.dispatcher.n.dispatcher (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:60587)
+    at xn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:61585)
+    at Un.trigger (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:63228) @ https://www.nike.com/?cp=47307789844_search_-nike-g-23745076281-195047739003-e-c&dplnk=member&gclsrc=aw.ds&gad_source=1&gad_campaignid=23745076281&gbraid=0AAAAADy86kPYHUUsrC0WhUeDRl_faF_SR&gclid=EAIaIQobChMIju_Zj4iqlAMV26laBR1PHSzzEAAYASAAEgKvUfD_BwE:1
+[   20626ms] [ERROR] VIDEOJS: ERROR: Error: Invalid target for null#on; must be a DOM node or evented object.
+    at Vn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64004)
+    at qn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64500)
+    at t.on (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64755)
+    at t.e (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:68810)
+    at new t (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:155570)
+    at i.createMenu (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:159388)
+    at i.update (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:158999)
+    at Pn.n.dispatcher.n.dispatcher (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:60587)
+    at xn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:61585)
+    at Un.trigger (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:63228) @ https://www.nike.com/?cp=47307789844_search_-nike-g-23745076281-195047739003-e-c&dplnk=member&gclsrc=aw.ds&gad_source=1&gad_campaignid=23745076281&gbraid=0AAAAADy86kPYHUUsrC0WhUeDRl_faF_SR&gclid=EAIaIQobChMIju_Zj4iqlAMV26laBR1PHSzzEAAYASAAEgKvUfD_BwE:1
+[   20627ms] [ERROR] VIDEOJS: ERROR: Error: Invalid target for null#on; must be a DOM node or evented object.
+    at Vn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64004)
+    at qn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64500)
+    at t.on (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64755)
+    at t.e (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:68810)
+    at new t (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:155570)
+    at i.createMenu (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:159388)
+    at i.update (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:158999)
+    at Pn.n.dispatcher.n.dispatcher (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:60587)
+    at xn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:61585)
+    at Un.trigger (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:63228) @ https://www.nike.com/?cp=47307789844_search_-nike-g-23745076281-195047739003-e-c&dplnk=member&gclsrc=aw.ds&gad_source=1&gad_campaignid=23745076281&gbraid=0AAAAADy86kPYHUUsrC0WhUeDRl_faF_SR&gclid=EAIaIQobChMIju_Zj4iqlAMV26laBR1PHSzzEAAYASAAEgKvUfD_BwE:1
+[   20627ms] [ERROR] VIDEOJS: ERROR: Error: Invalid target for null#on; must be a DOM node or evented object.
+    at Vn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64004)
+    at qn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64500)
+    at t.on (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64755)
+    at t.e (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:68810)
+    at new t (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:155570)
+    at i.createMenu (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:159388)
+    at i.update (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:158999)
+    at Pn.n.dispatcher.n.dispatcher (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:60587)
+    at xn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:61585)
+    at Un.trigger (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:63228) @ https://www.nike.com/?cp=47307789844_search_-nike-g-23745076281-195047739003-e-c&dplnk=member&gclsrc=aw.ds&gad_source=1&gad_campaignid=23745076281&gbraid=0AAAAADy86kPYHUUsrC0WhUeDRl_faF_SR&gclid=EAIaIQobChMIju_Zj4iqlAMV26laBR1PHSzzEAAYASAAEgKvUfD_BwE:1
+[   20627ms] [ERROR] VIDEOJS: ERROR: Error: Invalid target for null#on; must be a DOM node or evented object.
+    at Vn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64004)
+    at qn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64500)
+    at t.on (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64755)
+    at t.e (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:68810)
+    at new t (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:155570)
+    at i.createMenu (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:159388)
+    at i.update (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:158999)
+    at Pn.n.dispatcher.n.dispatcher (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:60587)
+    at xn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:61585)
+    at Un.trigger (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:63228) @ https://www.nike.com/?cp=47307789844_search_-nike-g-23745076281-195047739003-e-c&dplnk=member&gclsrc=aw.ds&gad_source=1&gad_campaignid=23745076281&gbraid=0AAAAADy86kPYHUUsrC0WhUeDRl_faF_SR&gclid=EAIaIQobChMIju_Zj4iqlAMV26laBR1PHSzzEAAYASAAEgKvUfD_BwE:1
+[   20636ms] [ERROR] VIDEOJS: ERROR: Error: Invalid target for null#on; must be a DOM node or evented object.
+    at Vn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64004)
+    at qn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64500)
+    at t.on (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64755)
+    at t.e (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:68810)
+    at new t (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:155570)
+    at i.createMenu (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:159388)
+    at i.update (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:158999)
+    at Pn.n.dispatcher.n.dispatcher (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:60587)
+    at xn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:61585)
+    at Un.trigger (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:63228) @ https://www.nike.com/?cp=47307789844_search_-nike-g-23745076281-195047739003-e-c&dplnk=member&gclsrc=aw.ds&gad_source=1&gad_campaignid=23745076281&gbraid=0AAAAADy86kPYHUUsrC0WhUeDRl_faF_SR&gclid=EAIaIQobChMIju_Zj4iqlAMV26laBR1PHSzzEAAYASAAEgKvUfD_BwE:1
+[   20639ms] [ERROR] VIDEOJS: ERROR: Error: Invalid target for null#on; must be a DOM node or evented object.
+    at Vn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64004)
+    at qn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64500)
+    at t.on (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:64755)
+    at t.e (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:68810)
+    at new t (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:155570)
+    at i.createMenu (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:159388)
+    at i.update (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:158999)
+    at Pn.n.dispatcher.n.dispatcher (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:60587)
+    at xn (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:61585)
+    at Un.trigger (https://static-assets.nike.com/video-player/2.2.0/nike-one-video-player.min.js:18:63228) @ https://www.nike.com/?cp=47307789844_search_-nike-g-23745076281-195047739003-e-c&dplnk=member&gclsrc=aw.ds&gad_source=1&gad_campaignid=23745076281&gbraid=0AAAAADy86kPYHUUsrC0WhUeDRl_faF_SR&gclid=EAIaIQobChMIju_Zj4iqlAMV26laBR1PHSzzEAAYASAAEgKvUfD_BwE:1
+[   20659ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://www.nike.com/?cp=47307789844_search_-nike-g-23745076281-195047739003-e-c&dplnk=member&gclsrc=aw.ds&gad_source=1&gad_campaignid=23745076281&gbraid=0AAAAADy86kPYHUUsrC0WhUeDRl_faF_SR&gclid=EAIaIQobChMIju_Zj4iqlAMV26laBR1PHSzzEAAYASAAEgKvUfD_BwE:1
+[   20669ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://www.nike.com/?cp=47307789844_search_-nike-g-23745076281-195047739003-e-c&dplnk=member&gclsrc=aw.ds&gad_source=1&gad_campaignid=23745076281&gbraid=0AAAAADy86kPYHUUsrC0WhUeDRl_faF_SR&gclid=EAIaIQobChMIju_Zj4iqlAMV26laBR1PHSzzEAAYASAAEgKvUfD_BwE:1
+[   20674ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://www.nike.com/?cp=47307789844_search_-nike-g-23745076281-195047739003-e-c&dplnk=member&gclsrc=aw.ds&gad_source=1&gad_campaignid=23745076281&gbraid=0AAAAADy86kPYHUUsrC0WhUeDRl_faF_SR&gclid=EAIaIQobChMIju_Zj4iqlAMV26laBR1PHSzzEAAYASAAEgKvUfD_BwE:1
+[   20693ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://www.nike.com/?cp=47307789844_search_-nike-g-23745076281-195047739003-e-c&dplnk=member&gclsrc=aw.ds&gad_source=1&gad_campaignid=23745076281&gbraid=0AAAAADy86kPYHUUsrC0WhUeDRl_faF_SR&gclid=EAIaIQobChMIju_Zj4iqlAMV26laBR1PHSzzEAAYASAAEgKvUfD_BwE:1
