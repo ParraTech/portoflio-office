@@ -34,78 +34,12 @@ html, body {
   transition: opacity 0.7s ease;
 }
 
-/* Layer 2 — weather, masked to window opening */
-.weather-layer {
-  position: absolute;
-  inset: 0;
-  z-index: 2;
-  transition: opacity 0.7s ease;
-  -webkit-mask-image: url('images/window-mask.png');
-  -webkit-mask-size: cover;
-  -webkit-mask-position: center;
-  -webkit-mask-mode: luminance;
-  mask-image: url('images/window-mask.png');
-  mask-size: cover;
-  mask-position: center;
-  mask-mode: luminance;
-}
-
-.sky {
-  position: absolute;
-  inset: 0;
-  background: linear-gradient(to bottom,
-    #4a9ede 0%,
-    #87ceeb 45%,
-    #c9e8f5 80%,
-    #e8f4fd 100%
-  );
-}
-
-.sun {
-  position: absolute;
-  width: 7%;
-  aspect-ratio: 1;
-  left: 38%;
-  top: 10%;
-  border-radius: 50%;
-  background: radial-gradient(circle, #fffde7 0%, #ffe566 45%, #ffa500 85%, transparent 100%);
-  box-shadow: 0 0 60px 30px rgba(255, 220, 50, 0.35);
-}
-
-/* Layer 3 — UI overlays */
+/* Layer 2 — UI overlays */
 .overlay {
   position: absolute;
   inset: 0;
   z-index: 3;
   pointer-events: none;
-}
-
-/* Clock — positioned over the small frame, upper right */
-.clock {
-  position: absolute;
-  left: 80.5%;
-  top: 3%;
-  width: 12%;
-  pointer-events: auto;
-  text-align: center;
-  font-family: 'Courier New', Courier, monospace;
-  color: #1a1a1a;
-}
-
-.clock-time {
-  display: block;
-  font-size: clamp(0.5rem, 0.95vw, 0.95rem);
-  letter-spacing: 0.04em;
-  line-height: 1.4;
-}
-
-.clock-tz {
-  display: block;
-  font-size: clamp(0.38rem, 0.65vw, 0.65rem);
-  opacity: 0.55;
-  margin-top: 0.25em;
-  letter-spacing: 0.12em;
-  text-transform: uppercase;
 }
 
 /* Bio — positioned lower left */
@@ -189,8 +123,6 @@ html, body {
 /* ── Mobile / portrait ────────────────────────────────────── */
 @media (max-width: 600px) {
   .bg::after        { opacity: 1; }
-  .weather-layer    { opacity: 0; pointer-events: none; }
-  .clock            { display: none; }
 
   .bio {
     left: 5%;
