@@ -22,7 +22,7 @@ html, body {
   position: absolute;
   inset: 0;
   z-index: 1;
-  background: url('images/light-mode-office.png') center / cover no-repeat;
+  background: url('images/light-mode-office-og.png') center / cover no-repeat;
 }
 
 .bg::after {
