@@ -5,7 +5,7 @@ const PANEL = { left: 0.00, top: 0.55, width: 0.20, height: 0.35 };
 function positionBio() {
   const bio = document.querySelector('.bio');
   if (window.innerWidth <= 600) {
-    ['left', 'top', 'width'].forEach(p => bio.style.removeProperty(p));
+    ['left', 'top', 'width', 'transform'].forEach(p => bio.style.removeProperty(p));
     return;
   }
   const vw = window.innerWidth;
@@ -18,14 +18,14 @@ function positionBio() {
   } else {
     imgH = vh; imgW = vh * imgAspect; offX = (vw - imgW) / 2; offY = 0;
   }
-  const panelX = offX + PANEL.left * imgW;
+  const panelCenterX = offX + (PANEL.left + PANEL.width / 2) * imgW;
+  const panelCenterY = offY + (PANEL.top + PANEL.height / 2) * imgH;
   const panelW = PANEL.width * imgW;
-  const visLeft  = Math.max(0, panelX);
-  const visWidth = panelW - (visLeft - panelX);
 
-  bio.style.left  = visLeft + 'px';
-  bio.style.top   = (offY + PANEL.top * imgH) + 'px';
-  bio.style.width = Math.max(40, visWidth) + 'px';
+  bio.style.left      = panelCenterX + 'px';
+  bio.style.top       = panelCenterY + 'px';
+  bio.style.width     = Math.max(40, panelW) + 'px';
+  bio.style.transform = 'translate(-50%, -50%)';
 }
 
 positionBio();

@@ -42,12 +42,13 @@ html, body {
   pointer-events: none;
 }
 
-/* Bio — positioned lower left */
+/* Bio — centered within the white panel in the illustration */
 .bio {
   position: absolute;
-  left: 4%;
-  top: 57%;
-  width: 33%;
+  left: 10%;
+  top: 72%;
+  width: 20%;
+  transform: translate(-50%, -50%);
   pointer-events: auto;
   font-family: Georgia, 'Times New Roman', serif;
   color: #1a1a1a;
