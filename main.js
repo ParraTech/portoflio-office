@@ -18,13 +18,16 @@ function positionBio() {
   } else {
     imgH = vh; imgW = vh * imgAspect; offX = (vw - imgW) / 2; offY = 0;
   }
-  const panelCenterX = offX + (PANEL.left + PANEL.width / 2) * imgW;
-  const panelCenterY = offY + (PANEL.top + PANEL.height / 2) * imgH;
-  const panelW = PANEL.width * imgW;
+  const panelLeft  = offX + PANEL.left * imgW;
+  const panelRight = offX + (PANEL.left + PANEL.width) * imgW;
+  const visLeft    = Math.max(0, panelLeft);
+  const visRight   = Math.min(vw, panelRight);
+  const visCenterX = (visLeft + visRight) / 2;
+  const visCenterY = offY + (PANEL.top + PANEL.height / 2) * imgH;
 
-  bio.style.left      = panelCenterX + 'px';
-  bio.style.top       = panelCenterY + 'px';
-  bio.style.width     = Math.max(40, panelW) + 'px';
+  bio.style.left      = visCenterX + 'px';
+  bio.style.top       = visCenterY + 'px';
+  bio.style.width     = Math.max(40, visRight - visLeft) + 'px';
   bio.style.transform = 'translate(-50%, -50%)';
 }
 
