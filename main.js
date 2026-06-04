@@ -1,6 +1,6 @@
 // --- Bio: track to white panel in illustration ---
 const LANDSCAPE = { w: 5504, h: 3072 };
-const PANEL = { left: 0.009, top: 0.565, width: 0.257, height: 0.240 };
+const PANEL = { left: 0.04, top: 0.65, width: 0.18, height: 0.240 };
 
 function positionBio() {
   const bio = document.querySelector('.bio');
