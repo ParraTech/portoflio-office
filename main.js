@@ -22,7 +22,8 @@ function positionBio() {
   const panelRight = offX + (PANEL.left + PANEL.width) * imgW;
   const visLeft    = Math.max(0, panelLeft);
   const visRight   = Math.min(vw, panelRight);
-  const visCenterX = (visLeft + visRight) / 2;
+  // shift right by 10% of the visible panel width to match illustration panel
+  const visCenterX = (visLeft + visRight) / 2 + (visRight - visLeft) * 0.10;
   const visCenterY = offY + (PANEL.top + PANEL.height / 2) * imgH;
 
   bio.style.left      = visCenterX + 'px';

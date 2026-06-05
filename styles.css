@@ -55,8 +55,6 @@ html, body {
   /* single scaling knob: all children use em, so the whole block grows/shrinks together */
   font-size: clamp(8px, 1.8vw, 26px);
   /*text-align: center;*/
-  /* JS sets left/top directly, so margin-left shifts right without conflicting */
-  margin-left: 5%;
 }
 
 .bio-greeting {
