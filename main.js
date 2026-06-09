@@ -42,3 +42,21 @@ gsap.from('.bio', {
   delay: 0.4,
   ease: 'power2.out',
 });
+
+// --- Mouse-driven color fade ---
+const bgVideo = document.getElementById('bg-video');
+let colorAmount = 0;
+let targetColor = 0;
+let lastMouseMove = 0;
+
+window.addEventListener('mousemove', () => {
+  targetColor = 1;
+  lastMouseMove = Date.now();
+});
+
+(function colorLoop() {
+  if (Date.now() - lastMouseMove > 1500) targetColor = 0;
+  colorAmount += (targetColor - colorAmount) * 0.05;
+  bgVideo.style.filter = `grayscale(${(1 - colorAmount) * 100}%)`;
+  requestAnimationFrame(colorLoop);
+})();
