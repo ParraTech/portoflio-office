@@ -43,7 +43,7 @@ gsap.from('.bio', {
   ease: 'power2.out',
 });
 
-// --- Mouse-driven color fade ---
+// --- Mouse-driven video reveal ---
 const bgVideo = document.getElementById('bg-video');
 let colorAmount = 0;
 let targetColor = 0;
@@ -54,9 +54,9 @@ window.addEventListener('mousemove', () => {
   lastMouseMove = Date.now();
 });
 
-(function colorLoop() {
+(function revealLoop() {
   if (Date.now() - lastMouseMove > 1500) targetColor = 0;
   colorAmount += (targetColor - colorAmount) * 0.05;
-  bgVideo.style.filter = `grayscale(${(1 - colorAmount) * 100}%)`;
-  requestAnimationFrame(colorLoop);
+  bgVideo.style.opacity = colorAmount;
+  requestAnimationFrame(revealLoop);
 })();
