@@ -50,7 +50,10 @@ const SCENES = {
   night: { el: document.getElementById('bg-night'), src: 'media/dark-mode-office.png' },
 };
 
+let manualNight = null; // set by the ?debug toggle; wins over URL param and clock
+
 function isNight() {
+  if (manualNight !== null) return manualNight;
   const override = new URLSearchParams(location.search).get('scene');
   if (override) return override === 'night';
   const h = new Date().getHours();
@@ -58,10 +61,20 @@ function isNight() {
 }
 
 function applyScene() {
-  document.body.classList.toggle('night', isNight());
+  const night = isNight();
+  document.body.classList.toggle('night', night);
+  document.getElementById('scene-toggle').textContent = night ? '☀' : '☾';
 }
 
 applyScene();
+
+if (new URLSearchParams(location.search).has('debug')) {
+  document.body.classList.add('debug');
+  document.getElementById('scene-toggle').addEventListener('click', () => {
+    manualNight = !isNight();
+    applyScene();
+  });
+}
 
 // load the active scene first, then preload the other for the crossfade
 const active = isNight() ? SCENES.night : SCENES.day;

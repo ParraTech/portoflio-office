@@ -135,6 +135,33 @@ html, body {
   opacity: 0.4;
 }
 
+/* Dev-only scene toggle — shown via ?debug */
+#scene-toggle {
+  position: absolute;
+  right: 16px;
+  bottom: 16px;
+  z-index: 4;
+  display: none;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 18px;
+  background: none;
+  border: 1px solid #1a1a1a;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  cursor: pointer;
+  color: #1a1a1a;
+}
+
+.debug #scene-toggle {
+  display: block;
+}
+
+.night #scene-toggle {
+  color: #f8f6f2;
+  border-color: #f8f6f2;
+}
+
 /* ── Mobile / portrait ────────────────────────────────────── */
 @media (max-width: 600px) {
   .bio {
