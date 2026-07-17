@@ -46,7 +46,7 @@ gsap.from('.bio', {
 // --- Day/night scene by visitor's local time ---
 const NIGHT_START = 19, NIGHT_END = 7; // night = 7pm–7am
 const SCENES = {
-  day:   { el: document.getElementById('bg-day'),   src: 'media/light-mode-office.png' },
+  day:   { el: document.getElementById('bg-day'),   src: 'media/light-mode-office-og.png' },
   night: { el: document.getElementById('bg-night'), src: 'media/dark-mode-office.png' },
 };
 
