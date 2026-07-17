@@ -43,20 +43,33 @@ gsap.from('.bio', {
   ease: 'power2.out',
 });
 
-// --- Mouse-driven video reveal ---
-const bgVideo = document.getElementById('bg-video');
-let colorAmount = 0;
-let targetColor = 0;
-let lastMouseMove = 0;
+// --- Day/night scene by visitor's local time ---
+const NIGHT_START = 19, NIGHT_END = 7; // night = 7pm–7am
+const SCENES = {
+  day:   { el: document.getElementById('bg-day'),   src: 'media/light-mode-office.png' },
+  night: { el: document.getElementById('bg-night'), src: 'media/dark-mode-office.png' },
+};
 
-window.addEventListener('mousemove', () => {
-  targetColor = 1;
-  lastMouseMove = Date.now();
-});
+function isNight() {
+  const override = new URLSearchParams(location.search).get('scene');
+  if (override) return override === 'night';
+  const h = new Date().getHours();
+  return h >= NIGHT_START || h < NIGHT_END;
+}
 
-(function revealLoop() {
-  if (Date.now() - lastMouseMove > 1500) targetColor = 0;
-  colorAmount += (targetColor - colorAmount) * 0.05;
-  bgVideo.style.opacity = colorAmount;
-  requestAnimationFrame(revealLoop);
-})();
+function applyScene() {
+  document.body.classList.toggle('night', isNight());
+}
+
+applyScene();
+
+// load the active scene first, then preload the other for the crossfade
+const active = isNight() ? SCENES.night : SCENES.day;
+const inactive = active === SCENES.night ? SCENES.day : SCENES.night;
+active.el.addEventListener('load', () => { inactive.el.src = inactive.src; }, { once: true });
+active.el.src = active.src;
+
+// arm the slow crossfade only after first paint
+requestAnimationFrame(() => document.body.classList.add('scene-ready'));
+
+setInterval(applyScene, 60_000);

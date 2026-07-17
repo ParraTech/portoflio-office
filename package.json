@@ -1,0 +1,6 @@
+{
+  "name": "static-dog",
+  "scripts": {
+    "start": "npx serve ."
+  }
+}
